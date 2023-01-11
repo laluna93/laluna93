@@ -1,6 +1,9 @@
 <h2>👋Hi, I'm Anna</h2> 
 <h3>I'm a frontend developer</h3>
 <h2>CV</h2>
+ <div>
+  <h2>Languages and Tools</h2>
+</div>
 <div>
   <h2>Contacts</h2>
 </div>
