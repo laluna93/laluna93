@@ -11,7 +11,8 @@
   <h2>Projects</h2>
   <ul>
     <li>Angular. Project management - <a href = "https://pomakom-rsteam.github.io/project-management-app-team2/">https://pomakom-rsteam.github.io/project-management-app-team2/</li>
-    <li>TypeScript . Shelter - <a href = "https://laluna93.github.io/Shelter/dist/">https://laluna93.github.io/Shelter/dist/</li>
+    <li>TypeScript. Shelter - <a href = "https://laluna93.github.io/Shelter/dist/">https://laluna93.github.io/Shelter/dist/</li>
+    <li>Angular. Youtube client - <a href = "https://laluna93.github.io/youtube-client/">https://laluna93.github.io/youtube-client/</li>
   </ul>
 </div>
 <!--
