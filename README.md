@@ -1,6 +1,6 @@
 <h2>👋Hi, I'm Anna</h2> 
 <h3>I'm a frontend developer</h3>
-<h2>CV</h2>
+<h2>CV</h2> <a href = "https://laluna93.github.io/myCv/cv/">https://laluna93.github.io/myCv/cv/</a>
  <div>
   <h2>Languages and Tools</h2>
 </div>
