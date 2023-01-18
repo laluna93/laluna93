@@ -6,6 +6,10 @@
 </div>
 <div>
   <h2>Contacts</h2>
+ <ul>
+  <li>Phone: +7 987 976 81 82</li>
+  <li>Mail: laluna-93@mail.ru</li>
+ </ul>
 </div>
 <div>
   <h2>Projects</h2>
