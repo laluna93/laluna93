@@ -3,7 +3,19 @@
 <h2>CV</h2> <a href = "https://laluna93.github.io/myCv/cv/">https://laluna93.github.io/myCv/cv/</a>
  <div>
   <h2>Languages and Tools</h2>
- 
+  <ul class="works-skills__list">
+    <li class="works-skills__skill">JavaScript</li>
+    <li class="works-skills__skill">TypeScript</li>
+    <li class="works-skills__skill">Angular</li>
+    <li class="works-skills__skill">HTML</li>
+    <li class="works-skills__skill">CSS</li>
+    <li class="works-skills__skill">SCSS</li>
+    <li class="works-skills__skill">RxJs</li>
+    <li class="works-skills__skill">NgRx</li>
+    <li class="works-skills__skill">Webpack</li>
+    <li class="works-skills__skill">GIT</li>
+    <li class="works-skills__skill">Team Work</li>
+  </ul> 
 </div>
 <div>
   <h2>Contacts</h2>
